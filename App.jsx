@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Admin from './Admin'
+import Admin from './Admin.jsx'
 
 const STORAGE_KEY = 'aros_items_v1'
 const ADMIN_SESSION_KEY = 'aros_admin_session'
